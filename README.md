@@ -29,12 +29,13 @@ Users should be able to:
 
 ### My Solution Screenshot
 
-![Design preview for the IP address tracker challenge](./design/mine/home1.jpeg)
+![Design preview for the IP address tracker challenge](./design/mine/home.jpeg)
 
 
 ### Links
 
-- Not yet
+- [Live site here](https://glexan14.github.io/IP-Tracker-Angular/)
+- [My Frontend solution here](https://www.frontendmentor.io/solutions/a-newbies-solution-with-angular-8eAMTAh57)
 
 ## My process
 
