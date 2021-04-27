@@ -1,27 +1,64 @@
-# IPAddressTracker
+# Frontend Mentor - IP address tracker solution
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.2.
+This is a solution to the [IP address tracker challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/ip-address-tracker-I8-0yYAH0). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-## Development server
+## Table of contents
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Overview
 
-## Build
+### The challenge
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+![Design preview for the IP address tracker challenge](./design/desktop-preview.jpg)
 
-## Running unit tests
+Users should be able to:
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+- View the optimal layout for each page depending on their device's screen size
+- See hover states for all interactive elements on the page
+- See their own IP address on the map on the initial page load
+- Search for any IP addresses or domains and see the key information and location
 
-## Running end-to-end tests
+### My Solution Screenshot
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+![Design preview for the IP address tracker challenge](./design/mine/home1.jpeg)
 
-## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+### Links
+
+- Not yet
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- [Angular](https://angular.io/) - JS framework
+- [Leaflet](https://nextjs.org/) - JS library
+- [IP Geolocation API](https://geo.ipify.org/) - API
+
+
+### Useful resources
+
+- [Font Awesome](https://fontawesome.com/) - I really liked this website to get some icons and will use it going forward.
+- [W3Schools](https://www.w3schools.com/) - It's very useful. I'd recommend it to anyone still learning about programming.
+
+- [RegExr](https://regexr.com/) - An online tool to learn, build, & test Regular Expressions(RegEx / RegExp). I recommend it.
+
+- [Frontend Mentor](https://www.frontendmentor.io/challenges) - This website is really useful to put your frontend skills to test and practices. It also give you some resources to begin a challenge like this one.
+
+
+## Author
+
+- Frontend Mentor - [@GleXan14](https://www.frontendmentor.io/profile/GleXan14)
+

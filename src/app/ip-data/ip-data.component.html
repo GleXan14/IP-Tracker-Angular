@@ -1,0 +1,48 @@
+
+<div class="data-container">
+    <div class="data border-right">
+        <div class="cont title">
+            <h2>Ip address</h2>
+        </div>
+        
+        <div class="cont body">
+            <p>{{ ip !== "-1" ? ip : "loading..." }}</p>
+           
+        </div>
+    </div>
+    
+    <div class="data border-right">
+        <div class="cont title">
+            <h2>Location</h2>
+        </div>
+        
+        <div class="cont body">
+            <p>
+                {{ ip !== "-1" ? region+country+postalCode : "loading..." }}</p>
+            
+        </div>
+    </div>
+
+    <div class="data border-right">
+        <div class="cont title">
+            <h2>Timezone</h2>
+        </div>
+        
+        <div class="cont body">
+            <p>{{ ip !== "-1" ? timeZone : "loading..." }}</p>
+            
+        </div>
+    </div>
+    
+    <div class="data">
+        <div class="cont title">
+            <h2>Isp</h2>
+        </div>
+        
+        <div class="cont body">
+            <p>{{ip !== "-1" ?  isp : "loading..."}}</p>
+            
+        </div>
+    </div>
+
+</div>

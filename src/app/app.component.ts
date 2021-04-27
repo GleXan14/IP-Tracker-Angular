@@ -7,4 +7,11 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'IP-Address-Tracker';
+
+  constructor() {}
+
+  ngOnInit():void {
+
+  }
+  
 }
