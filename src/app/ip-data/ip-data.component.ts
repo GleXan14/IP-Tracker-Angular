@@ -1,5 +1,5 @@
 
-import { Component, OnInit, Input } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 import { SharedService } from '../shared.service';
 
 @Component({
@@ -8,8 +8,6 @@ import { SharedService } from '../shared.service';
   styleUrls: ['./ip-data.component.css']
 })
 export class IpDataComponent implements OnInit {
-
-
   
   ip:string = "";
   country:string = "";
